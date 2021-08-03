@@ -4,6 +4,12 @@
     "type": "magento2-module",
     "license": "GPL-3.0",
     "minimum-stability": "stable",
+    "authors": [
+        {
+            "name": "Yehor Shytikov",
+            "email": "egorshitikov@gmail.com"
+        }
+    ],
     "require": {},
     "autoload": {
         "files": [
